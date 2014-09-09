@@ -9,6 +9,7 @@ Who we need (volunteer opportunities):
 -Sponsor Wrangler
 -Budget Wrangler
 -Designer
+  Designer can be me - something I can easily do from here.
 
 
 FOOD!!!
@@ -16,7 +17,8 @@ FOOD!!!
 Catering
 --------
 STL Wing Co.
-Sugar Fire
+Sugar Fire 
+  If we go with Sugarfire, I can arrange. One of their chefs is living in my house. (My son went to college)
 Bon Apetit
 
 Speaker/After Party
@@ -37,6 +39,8 @@ Pretty good last year
 
 What's going on with WP around that time (or is slated to be going on)
 
+  Suggest Chris Lema for keynote. He may well be the best speaker in WP community.
+
 Video
 -----
 Gear was good
@@ -52,6 +56,7 @@ Speakers
 Consistant timing
 Makes sure we review decks
 Live coding...mmmmm...maybe???
+  Just saw a WordCamp.tv talk where the speaker did coding segment as a video in advance. I like that concept for        control, visibility.
 Equipment check
 Forcing
 
