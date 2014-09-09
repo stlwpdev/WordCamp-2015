@@ -58,7 +58,7 @@ Forcing
 EVALS EVALS EVALS!!!
 
 Code for a Cause
-Megan Meyer(sp)
+[Megan Meier foundation](http://www.meganmeierfoundation.org/)
 Seperate event or room???
 
 Social Media team (live respnoses)
