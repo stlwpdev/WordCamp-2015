@@ -1,5 +1,16 @@
 WordCamp-2015
 =============
+March 14, 2015
+Washington University in St. Louis
+Lab Sciences Building (same location as last year)
+
+Who we need (volunteer opportunities):
+-Speaker Wrangler
+-Sponsor Wrangler
+-Budget Wrangler
+-Designer
+
+
 FOOD!!!
 
 Catering
