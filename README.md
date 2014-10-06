@@ -66,7 +66,7 @@ Code for a Cause
 [Megan Meier foundation](http://www.meganmeierfoundation.org/)
 Seperate event or room???
 
-Social Media team (live respnoses)
+Social Media team (live responses)
 Don't Panic (Happiness Bar)
 
 Bigger Signage
