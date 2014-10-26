@@ -70,3 +70,5 @@ Social Media team (live responses)
 Don't Panic (Happiness Bar)
 
 Bigger Signage
+
+One thing that would be really good, would be to have the schedule printed on the name badges. As well as a map to wear the talks will be talking place.
